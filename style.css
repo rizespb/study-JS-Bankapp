@@ -83,6 +83,42 @@ nav {
   color: #777;
 }
 
+/* REFERENCE */
+
+.reference {
+  border-radius: 1rem;
+  padding: 1rem 4rem;
+  color: #333;
+  background-color: #fff;
+  font-size: 1.4rem;
+}
+
+.reference__heading-1 {
+  font-size: 2rem;
+  font-weight: 600;
+  padding-bottom: 1rem;
+}
+
+.reference__heading-2 {
+  font-weight: 600;
+  padding-bottom: 1rem;
+}
+
+.reference__logInData {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.reference__logInData--text {
+  background-color: #f3f3f3;
+  padding: 1rem;
+  margin-right: 3rem;
+}
+
+.strong {
+  font-weight: 600;
+}
+
 /* MAIN */
 .app {
   position: relative;
